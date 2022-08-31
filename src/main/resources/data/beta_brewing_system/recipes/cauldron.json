@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "beta_brewing_system:brewing_cauldron"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cauldron"
+  }
+}
