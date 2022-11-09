@@ -61,7 +61,7 @@ minecraft {
             property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
 
             mods {
-                randombotany {
+                betabrewingsystem {
                     source sourceSets.main
                 }
             }
@@ -86,7 +86,7 @@ minecraft {
             property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
 
             mods {
-                randombotany {
+                betabrewingsystem {
                     source sourceSets.main
                 }
             }
@@ -111,7 +111,7 @@ minecraft {
             property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
 
             mods {
-                randombotany {
+                betabrewingsystem {
                     source sourceSets.main
                 }
             }
