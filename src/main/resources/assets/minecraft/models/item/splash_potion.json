@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/splash_potion"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "milk": 0
+            },
+            "model": "item/model/splash_water_potion"
+        },
+        {
+            "predicate": {
+                "milk": 1
+            },
+            "model": "item/model/splash_milk_potion"
+        }
+    ]
+}
